@@ -1,0 +1,46 @@
+2018-05-10T11:23:07+00:00 CRITICAL Maximum execution time of 60 seconds exceeded
+
+2018-05-11T07:05:36+00:00 CRITICAL Maximum execution time of 60 seconds exceeded
+
+2018-05-14T00:01:51+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 5540653927387 bytes)
+
+2018-05-14T00:02:50+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 5540653927387 bytes)
+
+2018-05-14T00:02:53+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 5540653927387 bytes)
+
+2018-05-14T00:02:56+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 5540653927387 bytes)
+
+2018-05-14T00:02:59+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 5540653927387 bytes)
+
+2018-05-14T00:03:03+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 5540653927387 bytes)
+
+2018-05-14T00:03:13+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 5540653927387 bytes)
+
+2018-05-14T00:03:22+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 5540653927387 bytes)
+
+2018-05-14T00:03:49+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 5540653927387 bytes)
+
+2018-05-14T00:04:04+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 5540653927387 bytes)
+
+2018-05-14T03:46:26+00:00 CRITICAL Maximum execution time of 60 seconds exceeded
+
+2018-05-14T08:33:15+00:00 CRITICAL Maximum execution time of 60 seconds exceeded
+
+2018-05-14T08:45:05+00:00 CRITICAL Maximum execution time of 60 seconds exceeded
+
+2018-05-16T06:20:54+00:00 CRITICAL Maximum execution time of 60 seconds exceeded
+
+2018-05-19T11:28:48+00:00 CRITICAL Maximum execution time of 60 seconds exceeded
+
+2018-05-20T04:18:04+00:00 CRITICAL Maximum execution time of 60 seconds exceeded
+
+2018-05-21T04:45:43+00:00 CRITICAL Maximum execution time of 60 seconds exceeded
+
+2018-05-21T07:06:30+00:00 CRITICAL Maximum execution time of 60 seconds exceeded
+
+2018-06-02T16:15:09+00:00 CRITICAL Maximum execution time of 60 seconds exceeded
+
+2018-06-02T16:26:04+00:00 CRITICAL Maximum execution time of 60 seconds exceeded
+
+2018-06-02T16:34:57+00:00 CRITICAL Maximum execution time of 60 seconds exceeded
+
